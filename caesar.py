@@ -1,0 +1,3 @@
+latin = "abcdefghijklmnopqrstuvwxyz"
+cyrillic = "абвгдеёжзийклмнопрстуфхцчшщъыьэюя"
+
