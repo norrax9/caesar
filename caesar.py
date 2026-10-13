@@ -18,3 +18,7 @@ def encrypt(text, shift):
             new_char = new_char.upper()
         result += new_char
     return result
+
+text = input("Введите текст: ")
+shift = int(input("Введите сдвиг: "))
+print(encrypt(text, shift))
